@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CMPT220.iml" filepath="$PROJECT_DIR$/.idea/CMPT220.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classwork/Classwork.iml" filepath="$PROJECT_DIR$/Classwork/Classwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 02/Module 02.iml" filepath="$PROJECT_DIR$/Module 02/Module 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 03/Module 03.iml" filepath="$PROJECT_DIR$/Module 03/Module 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 04/Module 04.iml" filepath="$PROJECT_DIR$/Module 04/Module 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 05/Module 05.iml" filepath="$PROJECT_DIR$/Module 05/Module 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 06/Module 06.iml" filepath="$PROJECT_DIR$/Module 06/Module 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 07/Module 07.iml" filepath="$PROJECT_DIR$/Module 07/Module 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 08/Module 08.iml" filepath="$PROJECT_DIR$/Module 08/Module 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 09/Module 09.iml" filepath="$PROJECT_DIR$/Module 09/Module 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 10/Module 10.iml" filepath="$PROJECT_DIR$/Module 10/Module 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 11/Module 11.iml" filepath="$PROJECT_DIR$/Module 11/Module 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 12/Module 12.iml" filepath="$PROJECT_DIR$/Module 12/Module 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects/Projects.iml" filepath="$PROJECT_DIR$/Projects/Projects.iml" />
+    </modules>
+  </component>
+</project>

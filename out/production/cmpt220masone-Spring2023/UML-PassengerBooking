@@ -1,0 +1,24 @@
+Booking
+-----------------------------------------
+Booking()
+
+Setters
+
+getPassenger() : AirlinePassenger
+getFlightNumber() : String
+getSeatNumber() : String
+getBookingDateTime() : LocalDateTime
+getBookingTime() : Time
+getBookingNumber() : String
+toString() : String
+
+Getters
+
+setPassenger(passenger: AirlinePassenger) : void
+setFlightNumber(flightNumber: String) : void
+setSeatNumber(seatNumber: String) : void
+setBookingDateTime(bookingDateTime: LocalDateTime) : void
+setBookingTime(bookingTime: Time) : void
+setBookingNumber(bookingNumber: String) : void
+
+toString() : String
